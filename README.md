@@ -11,3 +11,12 @@ Klasse: 24HBFI
 - GitHub verstehen
 - Dateien bearbeiten
 - Mit anderen zusammenarbeiten
+
+## Mein Lieblingsfach
+
+Mein Lieblingsfach ist: PO
+
+## Mein Ziel
+
+Ich möchte mit GitHub lernen, wie man gemeinsam an Projekten arbeitet.
+
